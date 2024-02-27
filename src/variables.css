@@ -1,0 +1,12 @@
+:root {
+    /* default theme is light */
+    --light-bg: #c7d2fe;
+    --light-primary: #1e0825;
+    --light-secondary: #6dd0fe;
+    --light-card-bg: #fff;
+
+    --dark-bg: #1d1c2c;
+    --dark-primary: #fff;
+    --dark-secondary: #6dd0fe;
+    --dark-card-bg: rgb(37, 34, 34);
+}
